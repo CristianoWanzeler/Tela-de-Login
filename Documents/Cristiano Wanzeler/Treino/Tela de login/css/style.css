@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+form{
+    border: 2px solid rgb(240, 240, 179);
+    padding: 40px 20px;
+    background-color: rgb(41, 156, 118);
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px rgb(123, 179, 132);
+
+}
+h2{
+    text-align: center;
+    margin-bottom: 30px;
+    color: #fff;
+    font-size: 30px;
+}
+.input-box{
+    width: 100%;
+    height: 45px;
+    margin: 10px auto;
+    position: relative; /*permite mecher as itens*/
+}
+.campo{
+    width: 100%;
+    height: 100%;
+    padding-left: 10px;
+    border-radius: 10px;
+    border: 0;
+    outline: 0;
+}
+
+img{
+    width: 25px;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+label{
+    color: #fff;
+    margin-top: 10px;
+    display: block;
+}
+button{
+    width: 50%;
+    height: 30px;
+    border-radius: 10px;
+    border: 0;
+    margin: 15px auto; /*deixa os lados iguais*/
+    display: block;/*ocupa todo o espaço na horizontal*/
+    font-size: 15px;
+    cursor: pointer;
+    transition: .3s ease;
+}
+button:hover{/*animar o botão Login*/
+    background-color: rgb(121, 212, 121);/* cor fundo*/
+    color: #fff; /*cor letra*/
+}
+p{
+    color: #fff;
+     margin-bottom: 20px;
+}
+h3{
+    color: #fff;
+    font-size: 12px;
+   
+}

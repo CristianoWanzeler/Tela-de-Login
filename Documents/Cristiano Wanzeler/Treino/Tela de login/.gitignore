@@ -1,0 +1,125 @@
+# Ignorar arquivos do sistema/IDE
+.DS_Store          # (Mac)
+Thumbs.db          # (Windows)
+.idea/             # (JetBrains IDE)
+.vscode/           # (VS Code)
+node_modules/      # (Dependências do Node.js, se aplicável)
+
+# Ignorar arquivos de cache/log
+*.log
+*.tmp
+
+# Ignorar arquivos de ambiente/sensíveis
+.env               # Variáveis de ambiente
+*.local            # Configurações locais
+
+# Ignorar arquivos gerados automaticamente
+dist/
+build/
+*.min.css
+*.min.js
+ ../../../../.VirtualBox/
+        ../../../../.arduinoIDE/
+        ../../../../.astah/
+        ../../../../.bash_history
+        ../../../../.cache/
+        ../../../../.dia/
+        ../../../../.eclipse/
+        ../../../../.gitconfig
+        ../../../../.idlerc/
+        ../../../../.ipython/
+        ../../../../.keras/
+        ../../../../.lesshst
+        ../../../../.m2/
+        ../../../../.matplotlib/
+        ../../../../.nbi/
+        ../../../../.p2/
+        ../../../../.packettracer
+        ../../../../.qtemu/
+        ../../../../.ssh/
+        ../../../../.vscode/
+        ../../../../3D Objects/
+        ../../../../AppData/
+        ../../../../Cisco Packet Tracer 8.2.1/
+        ../../../../Cisco Packet Tracer 8.2.2/
+        ../../../../Contacts/
+        ../../../../Desktop/
+        ../../../AAAA
+        ../../../Arduino/
+        ../../../Camtasia/
+        ../../../Corel/
+        ../../
+        ../../../CyberLink/
+        "../../../C\303\263pia_de_seguran\303\247a_de_Identifica\303\247\303\243o.cdr"
+        ../../../Default.rdp
+        ../../../Fax/
+        ../../../Forma Para/2024.3/
+        ../../../Forma Para/6 SEMESTRE - 2025.1/
+        ../../../Forma Para/7 SEMESTRE/
+        ../../../Forma Para/ALUNOS CPF.docx
+        ../../../Forma Para/ATIVIDADES CURRICULARES DE EXTENSAO II/
+        ../../../Forma Para/Banco de Dados I/
+        "../../../Forma Para/CONCLUS\303\203O/"
+        ../../../Forma Para/CURSO PROFISSIONALIZANTE/
+        ../../../Forma Para/Camisa/
+        ../../../Forma Para/Camisas.docx
+        ../../../Forma Para/Certificados CrW/
+        ../../../Forma Para/Certificados Turma/
+        ../../../Forma Para/Curso Fabricio/
+        "../../../Forma Para/Disciplina - Programa\303\247\303\243o de Computadores/"
+        ../../../Forma Para/Documentos turma/
+        ../../../Forma Para/Engenharia de Sistemas/
+        ../../../Forma Para/Engenharia de Softwere/
+        ../../../Forma Para/Estrutura de Dados II/
+        ../../../Forma Para/Folder/
+        "../../../Forma Para/Java - Como Programar [10\302\252 Ed][Deitel & Deitel][2016].pdf"
+        ../../../Forma Para/Logos/
+        ../../../Forma Para/MODELOS/
+        "../../../Forma Para/Matem\303\241tica Discreta/"
+        "../../../Forma Para/Probabilidade Estat\303\255stica/"
+        "../../../Forma Para/Programa\303\247\303\243o 2/"
+        ../../../Forma Para/Projeto Integrado I/
+        ../../../Forma Para/SBPC 2025/
+        "../../../Forma Para/SISTEMAS DE INFORMA\303\207\303\203O/"
+        ../../../Forma Para/Soft/
+        ../../../Forma Para/dbeaver-ce-24.1.3-x86_64-setup.exe
+        ../../../Forma Para/sbc_template.doc
+        ../../../IHC.docx
+        "../../../Identifica\303\247\303\243o.cdr"
+        ../../../MAGIX Downloads/
+        ../../../NetBeansProjects/
+        ../../../NewBlue/
+        ../../../NewBlueFX/
+        ../../../Organizar/
+        "../../../Rela\303\247\303\243o das Camisas.docx"
+        ../../../Scanned Documents/
+        ../../../Virtual Machines/
+        ../../../chcandido-brModelo-06bd0f4/
+        ../../../desktop.ini
+        ../../../../Downloads/
+        ../../../../Favorites/
+        ../../../../IntelGraphicsProfiles/
+        ../../../../Links/
+        ../../../../Music/
+        ../../../../NTUSER.DAT
+        ../../../../NTUSER.DAT{40da7b30-3dcc-11ed-977f-cabd2a3eae4e}.TM.blf
+        ../../../../NTUSER.DAT{40da7b30-3dcc-11ed-977f-cabd2a3eae4e}.TMContainer00000000000000000001.regtrans-ms
+        ../../../../NTUSER.DAT{40da7b30-3dcc-11ed-977f-cabd2a3eae4e}.TMContainer00000000000000000002.regtrans-ms
+        ../../../../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+        ../../../../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+        ../../../../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+        ../../../../OneDrive/
+        ../../../../Pictures/
+        ../../../../Saved Games/
+        ../../../../Searches/
+        ../../../../Videos/
+        ../../../../VirtualBox VMs/
+        ../../../../eclipse-workspace/
+        ../../../../edb_pgagent_pg16.exe
+        ../../../../frontend/
+        ../../../../newreactjs.jsx
+        ../../../../ntuser.dat.LOG1
+        ../../../../ntuser.dat.LOG2
+        ../../../../ntuser.ini
+        ../../../../numero-secreto/
+        ../../../../scikit_learn_data/
