@@ -1,0 +1,20 @@
+# Ignorar arquivos do sistema/IDE
+.DS_Store          # (Mac)
+Thumbs.db          # (Windows)
+.idea/             # (JetBrains IDE)
+.vscode/           # (VS Code)
+node_modules/      # (Dependências do Node.js, se aplicável)
+
+# Ignorar arquivos de cache/log
+*.log
+*.tmp
+
+# Ignorar arquivos de ambiente/sensíveis
+.env               # Variáveis de ambiente
+*.local            # Configurações locais
+
+# Ignorar arquivos gerados automaticamente
+dist/
+build/
+*.min.css
+*.min.js
